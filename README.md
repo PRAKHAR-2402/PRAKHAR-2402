@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **`Core PHP` | `Backend Architecture`**
 
-- 👨‍💻 All of my projects are available at [🌐 **[My Portfolio](https://github.com/PRAKHAR-2402?tab=repositories)** *(updating soon)*](🌐 **[My Portfolio](https://github.com/PRAKHAR-2402?tab=repositories)** *(updating soon)*)
+- 👨‍💻 All of my projects are available at [🌐 **[My Portfolio](https://github.com/PRAKHAR-2402?tab=repositories)** *(updating soon)*]
 
 - 📄 Know about my experiences [🗂️ [Resume Link](https://drive.google.com/file/d/1MOogrhB9tFWICNHCxB05NDAFbvnMfQF3/view)](🗂️ [Resume Link](https://drive.google.com/file/d/1MOogrhB9tFWICNHCxB05NDAFbvnMfQF3/view))
 
