@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [🌐 **[My Portfolio](https://github.com/PRAKHAR-2402?tab=repositories)** *(updating soon)*
 
-- 📄 Know about my experiences [🗂️ [Resume Link](https://drive.google.com/file/d/1MOogrhB9tFWICNHCxB05NDAFbvnMfQF3/view)]
+- 📄 Know about my experiences [🗂️ [Resume Link](https://drive.google.com/file/d/13sE1KmMe8Su_e2kcSeN9bmH-ICy2AKqQ/view?usp=drive_link)]
 
 - ⚡ Fun fact **Coding is my therapy... until the bugs start talking back 🐛🧘‍♂️**
    
