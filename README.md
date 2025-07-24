@@ -8,8 +8,8 @@
 
 </p>
 <!-- ✅ Added GIF to the right -->
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" align="right" width="300" alt="developer gif" style="margin-left: 50px; margin-top: 10px;" />
-<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" align="right" width="300" alt="developer gif" style="margin-left: 100px; margin-top: 10px; margin-bottom: 10px" />
+
 <p>
 - 🔭 I’m currently working on **Discuss — Q&A Forum Website**
 
