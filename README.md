@@ -7,7 +7,7 @@
 </p>
 
 <!-- ✅ Added GIF to the right -->
-<div><img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" align="right" width="300" alt="developer gif" style="margin-left: 100px; margin-top: 10px;" /></div>
+<div><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="300" alt="developer gif" style="margin-left: 100px; margin-top: 0px;" /></div>
 
 - 🔭 I’m currently working on **Discuss — Q&A Forum Website**
   
