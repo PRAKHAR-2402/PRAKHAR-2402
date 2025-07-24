@@ -1,9 +1,15 @@
+<!-- Light theme version (black text) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakhar+Gupta" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakhar+Gupta" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakhar+Gupta" alt="Typing SVG" />
+  </picture>
 </p>
+
 </p>
 <!-- ✅ Added GIF to the right -->
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" align="right" width="300" alt="developer gif" style="margin-left: 50px; margin-top: 10px;" />
+<br><br>
 <p>
 - 🔭 I’m currently working on **Discuss — Q&A Forum Website**
 
