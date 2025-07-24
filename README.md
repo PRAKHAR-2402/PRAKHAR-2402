@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Prakhar Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakhar+Gupta" alt="Typing SVG" />
+</p>
+</p>
+<!-- ✅ Added GIF to the right -->
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" align="right" width="300" alt="developer gif" style="margin-left: 50px; margin-top: 10px;" />
+<p>
 - 🔭 I’m currently working on **Discuss — Q&A Forum Website**
 
 - 🌱 I’m currently learning **`Core PHP` | `Backend Architecture`**
 
-- 👨‍💻 All of my projects are available at [🌐 **[My Portfolio](https://github.com/PRAKHAR-2402?tab=repositories)** *(updating soon)*]
+- 👨‍💻 All of my projects are available at [🌐 **[My Portfolio](https://github.com/PRAKHAR-2402?tab=repositories)** *(updating soon)*
 
-- 📄 Know about my experiences [🗂️ [Resume Link](https://drive.google.com/file/d/1MOogrhB9tFWICNHCxB05NDAFbvnMfQF3/view)](🗂️ [Resume Link](https://drive.google.com/file/d/1MOogrhB9tFWICNHCxB05NDAFbvnMfQF3/view))
+- 📄 Know about my experiences [🗂️ [Resume Link](https://drive.google.com/file/d/1MOogrhB9tFWICNHCxB05NDAFbvnMfQF3/view)]
 
 - ⚡ Fun fact **Coding is my therapy... until the bugs start talking back 🐛🧘‍♂️**
 
