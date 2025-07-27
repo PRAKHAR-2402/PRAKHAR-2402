@@ -9,7 +9,7 @@
 <!-- ✅ Added GIF to the right -->
 <div><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" width="300" alt="developer gif" style="margin-left: 100px; margin-top: 0px;" /></div>
 
-- 🔭 I’m currently working on **Discuss — Q&A Forum Website**
+- 🔭 I’m currently working on **E- commerce website in PHP**
   
 - 🌱 I’m currently learning **`Core PHP` | `Backend Architecture`**
 
