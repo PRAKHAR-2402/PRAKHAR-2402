@@ -13,9 +13,9 @@
   
 - 🌱 I’m currently learning **`Core PHP` | `Backend Architecture`**
 
-- 👨‍💻 All of my projects are available at [🌐 **[My Portfolio](https://prakhargupta-portfolio-three.vercel.app/)** *(updating soon)*]
+- 👨‍💻 All of my projects are available at 🌐 [My Portfolio](https://prakhargupta-portfolio-three.vercel.app/)
 
-- 📄 Know about my experiences [🗂️ [Resume Link](https://drive.google.com/file/d/13sE1KmMe8Su_e2kcSeN9bmH-ICy2AKqQ/view?usp=drive_link)]
+- 📄 Know about my experiences 🗂️ [Resume Link](https://drive.google.com/file/d/13sE1KmMe8Su_e2kcSeN9bmH-ICy2AKqQ/view?usp=drive_link)
 
 - ⚡ Fun fact **Coding is my therapy... until the bugs start talking back 🐛🧘‍♂️**
    
